@@ -1,13 +1,10 @@
+![TailwindCSS Highlighter](./assets/screen.png)
+
 # TailwindCSS Highlighter
 
 This package adds syntax definitions for the [TailwindCSS](https://tailwindcss.com/).
 
-### CSS Syntax Highlighting
-
-![TailwindCSS Highlighter](./assets/screen.png)
-
-
-#### Thanks to [deathaxe](https://github.com/deathaxe) for the great help he gave in the development of this package.
+> Thanks to [deathaxe](https://github.com/deathaxe) for the great help he gave in the development of this package.
 
 ## Install
 
