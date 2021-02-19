@@ -1,6 +1,6 @@
 {
     "name": "tailwindcss-highlighter",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "description": "This package adds syntax definitions for the TailwindCSS",
     "repository": {
         "type": "git",
@@ -16,7 +16,7 @@
             "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
         }
     },
-   "scripts": {
+    "scripts": {
         "changelog": "conventional-changelog -p angular -r 2 -i CHANGELOG.md -s",
         "release": "bash scripts/release.sh",
         "test": "echo \"Error: no test specified\" && exit 1"
