@@ -2,6 +2,13 @@
 
 This package adds syntax definitions for the [TailwindCSS](https://tailwindcss.com/).
 
+### CSS Syntax Highlighting
+
+![TailwindCSS Highlighter](./assets/screen.png)
+
+
+#### Thanks to [deathaxe](https://github.com/deathaxe) for the great help he gave in the development of this package.
+
 ## Install
 
 **Package Control:**
@@ -15,10 +22,6 @@ This package adds syntax definitions for the [TailwindCSS](https://tailwindcss.c
 1. Download latest release and unzip. it into your Packages folder.
 2. Go to `Sublime Text → Preferences → Browse Packages`.
 3. Move folder to inside and rename the folder to `TailwindCSS Highlighter`.
-
-### CSS Syntax Highlighting
-
-![TailwindCSS Highlighter](./assets/screen.png)
 
 ## Related Extensions
 - [LSP-tailwindcss](https://github.com/sublimelsp/LSP-tailwindcss)
